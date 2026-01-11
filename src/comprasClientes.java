@@ -38,6 +38,6 @@ public class comprasClientes {
         System.out.println("Cliente: " + nombreCliente);
         System.out.println("Total compras : " + totalCompras);
         System.out.println("Promedio compras : " + promedioCompras);
-        System.out.println("Gracias Totales : " + promedioCompras);
+        System.out.println("GRACIAS TOTALES : " + promedioCompras);
      }
 }
